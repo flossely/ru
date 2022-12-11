@@ -2,6 +2,44 @@
 
 $diction['ru'] =
 [
+    'metric' =>
+    [
+        '' =>
+        [
+            'order' => 'DESC',
+            'word' => 'Инфо',
+        ],
+        'bshp' =>
+        [
+            'order' => 'ASC',
+            'word' => 'Тело',
+        ],
+        'fshp' =>
+        [
+            'order' => 'ASC',
+            'word' => 'Ноги',
+        ],
+        'height' =>
+        [
+            'order' => 'DESC',
+            'word' => 'Рост',
+        ],
+        'weight' =>
+        [
+            'order' => 'DESC',
+            'word' => 'Вес',
+        ],
+        'size' =>
+        [
+            'order' => 'DESC',
+            'word' => 'Размер',
+        ],
+        'arousal' =>
+        [
+            'order' => 'DESC',
+            'word' => 'Красота',
+        ],
+    ],
     'digital' =>
     [
         '0',
