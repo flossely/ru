@@ -8,6 +8,7 @@ $metro['ru'] =
         "bshp" => "Тело",
         "fshp" => "Ноги",
         "birth" => "Дата",
+        "country" => "Страна",
         "height" => "Рост",
         "weight" => "Вес",
         "size" => "Размер",
