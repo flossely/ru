@@ -13,7 +13,6 @@ $metro['ru'] =
         "height" => "Рост",
         "weight" => "Вес",
         "size" => "Размер",
-        "arousal" => "Красота",
     ],
     "unit" =>
     [
@@ -21,6 +20,20 @@ $metro['ru'] =
         "height" => "м",
         "weight" => "кг",
         "size" => "RU",
+    ],
+    "side" =>
+    [
+        "quantity" => "right",
+        "height" => "right",
+        "weight" => "right",
+        "size" => "right",
+    ],
+    "space" =>
+    [
+        "quantity" => "",
+        "height" => " ",
+        "weight" => " ",
+        "size" => " ",
     ],
     "round" =>
     [
