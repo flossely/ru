@@ -10,7 +10,7 @@ $metro['ru'] =
         "birth" => "Дата",
         "zodiac" => "Зодиак",
         "country" => "Страна",
-        "ratio" => "Кол-во",
+        "ratio" => "Оценка",
         "height" => "Рост",
         "weight" => "Вес",
         "size" => "Размер",
@@ -32,7 +32,7 @@ $metro['ru'] =
     ],
     "unit" =>
     [
-        "ratio" => "%",
+        "ratio" => "пробы",
         "height" => "м",
         "weight" => "кг",
         "size" => "RU",
@@ -46,14 +46,14 @@ $metro['ru'] =
     ],
     "space" =>
     [
-        "ratio" => "",
+        "ratio" => " ",
         "height" => " ",
         "weight" => " ",
         "size" => " ",
     ],
     "round" =>
     [
-        "ratio" => 3,
+        "ratio" => 0,
     ],
     "bshp" =>
     [
