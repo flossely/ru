@@ -9,10 +9,22 @@ $metro['ru'] =
         "fshp" => "Ноги",
         "birth" => "Дата",
         "country" => "Страна",
+        "quantity" => "Кол-во",
         "height" => "Рост",
         "weight" => "Вес",
         "size" => "Размер",
         "arousal" => "Красота",
+    ],
+    "unit" =>
+    [
+        "quantity" => "",
+        "height" => "м",
+        "weight" => "кг",
+        "size" => "RU",
+    ],
+    "round" =>
+    [
+        "quantity" => 3,
     ],
     "bshp" =>
     [
