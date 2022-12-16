@@ -32,21 +32,21 @@ $metro['ru'] =
     ],
     "unit" =>
     [
-        "ratio" => "пробы",
+        "ratio" => ".",
         "height" => "м",
         "weight" => "кг",
         "size" => "RU",
     ],
     "side" =>
     [
-        "ratio" => "right",
+        "ratio" => "left",
         "height" => "right",
         "weight" => "right",
         "size" => "right",
     ],
     "space" =>
     [
-        "ratio" => " ",
+        "ratio" => "",
         "height" => " ",
         "weight" => " ",
         "size" => " ",
