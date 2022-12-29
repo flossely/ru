@@ -10,6 +10,7 @@ $metro['ru'] =
         "birth" => "Дата",
         "zodiac" => "Зодиак",
         "country" => "Страна",
+        "quote" => "Цитаты",
         "ratio" => "Оценка",
         "height" => "Рост",
         "weight" => "Вес",
