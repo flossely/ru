@@ -129,6 +129,7 @@ $parle['ru'] =
     "term:description" => "Описание",
     "term:era" => "Эра",
     "term:era:pl" => "Эры",
+    "term:fallback" => "Системный шрифт",
     "term:file" => "Файл",
     "term:filename" => "Имя файла",
     "term:font" => "Шрифт",
